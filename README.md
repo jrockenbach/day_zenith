@@ -1,4 +1,4 @@
-# Day Zenith 🚀
+# Day Zenith 🧟‍♂️
 
 A high-performance DayZ server monitoring dashboard built with **Elixir**, **Phoenix LiveView**, and **Tailwind CSS/DaisyUI**.
 
