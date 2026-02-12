@@ -1,18 +1,24 @@
-# DayZenith
+# Day Zenith 🚀
 
+A high-performance DayZ server monitoring dashboard built with **Elixir**, **Phoenix LiveView**, and **Tailwind CSS/DaisyUI**.
+
+## Features
+- [x] Live Server Dashboard
+- [ ] Real-time data updates via LiveView
+- [ ] Responsive UI with DaisyUI
+- [ ] BattleMetrics API Integration (Coming Soon)
+- [ ] Discord Webhook Notifications (Planned)
+
+## Technical Stack
+* **Language:** Elixir 1.19.5 (OTP 28)
+* **Framework:** Phoenix 1.8.3 (LiveView)
+* **Styling:** Tailwind CSS v4.1 + DaisyUI 5.0
+* **Database:** PostgreSQL (Ecto)
+
+## Setup
 To start your Phoenix server:
 
-* Run `mix setup` to install and setup dependencies
-* Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
+1. Run `mix setup` to install and setup dependencies
+2. Start Phoenix endpoint with `iex -S mix phx.server`
 
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-* Official website: https://www.phoenixframework.org/
-* Guides: https://hexdocs.pm/phoenix/overview.html
-* Docs: https://hexdocs.pm/phoenix
-* Forum: https://elixirforum.com/c/phoenix-forum
-* Source: https://github.com/phoenixframework/phoenix
+Visit [`localhost:4000/servers`](http://localhost:4000/servers) to see the dashboard.
