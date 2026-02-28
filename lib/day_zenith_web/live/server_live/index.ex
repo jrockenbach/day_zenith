@@ -4,6 +4,7 @@ defmodule DayZenithWeb.ServerLive.Index do
   alias DayZenith.Servers
 
   @impl true
+  @spec mount(any(), any(), map()) :: {:ok, Phoenix.LiveView.Socket.t()}
   def mount(_params, _session, socket) do
     {:ok,
      socket
