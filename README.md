@@ -1,6 +1,6 @@
 # Day Zenith 🧟‍♂️
 
-A high-performance DayZ server monitoring dashboard built with **Elixir**, **Phoenix LiveView**, and **Tailwind CSS/DaisyUI**.
+A high-performance DayZ server monitoring dashboard built with **Elixir**, **Phoenix LiveView**, and **Tailwind CSS/DaisyUI**. Estimated time of completion is Summer 2026.
 
 ## Features
 - [x] Live Server Dashboard
